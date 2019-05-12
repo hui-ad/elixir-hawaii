@@ -20,6 +20,10 @@ Here are some resources to get you started with the tech used in this project. P
   * Official Phoenix Framework [Resource List](https://phoenixframework.org/community)
   * Video: [Multi-Player Bingo with Elixir, Phoenix, Vue & Elm](https://pragmaticstudio.com/courses/unpacked-multi-player-bingo-with-elixir-phoenix-vue-elm), by Pragmatic Studio
   * Video: [Full-Stack GraphQL with Absinthe, Phoenix, and React](https://pragmaticstudio.com/courses/unpacked-full-stack-graphql-with-absinthe-phoenix-react), by Pragmatic Studio
+  
+# DEPLOYMENT
+  * Official [Phoenix on Heroku Guide](https://hexdocs.pm/phoenix/heroku.html) with discussion of limitations.
+  * [Gigalixer](https://gigalixir.com/), "Elixir's Platform as a Service"
 
 # ERLANG, OTP, FUNCTIONAL PROGRAMMING, CONCURRENCY
   * [Erlang Master Classes](https://www.cs.kent.ac.uk/ErlangMasterClasses/) at University of Kent
