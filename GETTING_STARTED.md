@@ -11,8 +11,8 @@ Here are some resources to get you started with the tech used in this project. P
 
 # PHOENIX
   * Official [Phoenix Framework Guides](https://hexdocs.pm/phoenix/overview.html)
-  * [Programming Phoenix 1.4](https://pragprog.com/book/phoenix14/programming-phoenix-1-4), by Chris McCord, Bruce Tate and José Valim
-  * [Phoenix in Action](https://www.manning.com/books/phoenix-in-action), by Geoffrey Lessel, foreword by Saša Jurić
+  * Book: [Programming Phoenix 1.4](https://pragprog.com/book/phoenix14/programming-phoenix-1-4), by Chris McCord, Bruce Tate and José Valim
+  * Book: [Phoenix in Action](https://www.manning.com/books/phoenix-in-action), by Geoffrey Lessel, foreword by Saša Jurić
   * #phoenix on [Elixir-lang's Slack](https://elixir-slackin.herokuapp.com/)
   * Official Phoenix Framework [Resource List](https://phoenixframework.org/community)
   * Video: [Multi-Player Bingo with Elixir, Phoenix, Vue & Elm](https://pragmaticstudio.com/courses/unpacked-multi-player-bingo-with-elixir-phoenix-vue-elm), by Pragmatic Studio
