@@ -3,7 +3,7 @@ Here are some resources to get you started with the tech used in this project. P
 # ELIXIR
   * Book: [Elixir in Action, Second Edition](https://www.manning.com/books/elixir-in-action-second-edition), by Saša Jurić 
   * Book: [Programming Elixir 1.6](https://pragprog.com/book/elixir16/programming-elixir-1-6), by Dave Thomas
-  * Book: [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir), by by Ulisses Almeida
+  * Book: [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir), by Ulisses Almeida
   * #beginner on [Elixir-lang's Slack](https://elixir-slackin.herokuapp.com/)
 
 # PHOENIX
