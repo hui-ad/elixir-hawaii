@@ -22,7 +22,7 @@ Here are some resources to get you started with the tech used in this project. P
   * Video: [Full-Stack GraphQL with Absinthe, Phoenix, and React](https://pragmaticstudio.com/courses/unpacked-full-stack-graphql-with-absinthe-phoenix-react), by Pragmatic Studio
   
 # DEPLOYMENT
-  * Official [Phoenix on Heroku Guide](https://hexdocs.pm/phoenix/heroku.html) with discussion of limitations.
+  * Official [Phoenix on Heroku Guide](https://hexdocs.pm/phoenix/heroku.html) with discussion of limitations
   * [Gigalixer](https://gigalixir.com/), "Elixir's Platform as a Service"
 
 # ERLANG, OTP, FUNCTIONAL PROGRAMMING, CONCURRENCY
