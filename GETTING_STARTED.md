@@ -15,6 +15,7 @@ Here are some resources to get you started with the tech used in this project. P
   * [Phoenix in Action](https://www.manning.com/books/phoenix-in-action), by Geoffrey Lessel, foreword by Saša Jurić
   * #phoenix on [Elixir-lang's Slack](https://elixir-slackin.herokuapp.com/)
   * Official Phoenix Framework [Resource List](https://phoenixframework.org/community)
+  * Video: [Multi-Player Bingo with Elixir, Phoenix, Vue & Elm](https://pragmaticstudio.com/courses/unpacked-multi-player-bingo-with-elixir-phoenix-vue-elm), by Pragmatic Studio
 
 # ERLANG, OTP, FUNCTIONAL PROGRAMMING, CONCURRENCY
   * [Erlang Master Classes](https://www.cs.kent.ac.uk/ErlangMasterClasses/) at University of Kent
