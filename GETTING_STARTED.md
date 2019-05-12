@@ -10,7 +10,7 @@ Here are some resources to get you started with the tech used in this project. P
   * Official [Elixir-lang Learning Resources](https://elixir-lang.org/learning.html)
 
 # PHOENIX
-  * [Phoenix Framework Guides](https://hexdocs.pm/phoenix/overview.html)
+  * Official [Phoenix Framework Guides](https://hexdocs.pm/phoenix/overview.html)
   * [Programming Phoenix 1.4](https://pragprog.com/book/phoenix14/programming-phoenix-1-4), by Chris McCord, Bruce Tate and José Valim
   * [Phoenix in Action](https://www.manning.com/books/phoenix-in-action), by Geoffrey Lessel, foreword by Saša Jurić
   * #phoenix on [Elixir-lang's Slack](https://elixir-slackin.herokuapp.com/)
@@ -18,6 +18,6 @@ Here are some resources to get you started with the tech used in this project. P
 
 # ERLANG, OTP, FUNCTIONAL PROGRAMMING, CONCURRENCY
   * [Erlang Master Classes](https://www.cs.kent.ac.uk/ErlangMasterClasses/) at University of Kent
-    * [Functional Programming, with Simon Thompson](https://www.youtube.com/playlist?list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5)
-    * [Concurrent Programming, with Joe Armstrong](https://www.youtube.com/playlist?list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn)
-    * [OTP Behaviours and Releases, with Francesco Cesarini](https://www.youtube.com/playlist?list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc)
+    * [Functional Programming](https://www.youtube.com/playlist?list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5), with Simon Thompson 
+    * [Concurrent Programming](https://www.youtube.com/playlist?list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn), with Joe Armstrong
+    * [OTP Behaviours and Releases](https://www.youtube.com/playlist?list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc), with Francesco Cesarini
