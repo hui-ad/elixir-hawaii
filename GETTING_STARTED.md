@@ -7,6 +7,9 @@ Here are some resources to get you started with the tech used in this project. P
   * Book: [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir), by Ulisses Almeida
   * Video: [Developing with Elixir/OTP](https://pragmaticstudio.com/elixir), by Pragmatic Studio
   * #beginner on [Elixir-lang's Slack](https://elixir-slackin.herokuapp.com/)
+  * [Elixir School](https://elixirschool.com), online, peer-reviewed lessons
+  * [Elixir Track](https://exercism.io/tracks/elixir) on Exercism
+  * [Elixir Koans](http://elixirkoans.io/), Elixir learning exercises
   * Official [Elixir-lang Learning Resources](https://elixir-lang.org/learning.html)
 
 # PHOENIX
