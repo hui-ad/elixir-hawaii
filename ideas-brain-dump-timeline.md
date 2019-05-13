@@ -4,3 +4,6 @@
 
 # Braindump (Ideas for projects)
 * Basic site with information about future meetups
+
+# Website TODO
+* [ ] Force SSL [Kyle]
