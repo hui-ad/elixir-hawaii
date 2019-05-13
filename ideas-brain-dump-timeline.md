@@ -1,5 +1,5 @@
 # Timeline
-* [ ] Put a baseline Phoenix project on Heroku [Kyle]
+* [x] Put a baseline Phoenix project on Heroku [Kyle]
 * [ ] Schedule next meeting
 
 # Braindump (Ideas for projects)
