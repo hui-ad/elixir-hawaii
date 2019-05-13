@@ -1,5 +1,7 @@
 Here are some resources to get you started with the tech used in this project. Please add as you see fit.
 
+One of the best ways to learn is by doing. Maybe you could join a project or start one here. That's what this group is for!
+
 # ELIXIR
   * Official [Elixir-lang Guides](https://elixir-lang.org/getting-started/introduction.html)
   * Book: [Elixir in Action, Second Edition](https://www.manning.com/books/elixir-in-action-second-edition), by Saša Jurić 
