@@ -27,7 +27,7 @@ One of the best ways to learn is by doing. Maybe you could join a project or sta
   * Official [Phoenix on Heroku Guide](https://hexdocs.pm/phoenix/heroku.html) with discussion of limitations
   * [Distillery](https://github.com/bitwalker/distillery) Create OTP releases (binaries that can be deployed without a full Elixir/Erlang system installed)
     * Note: Elixir version 1.9 may include deployment tooling built into the language (or standard library). Watch this space.
-  * [Gigalixir](https://gigalixir.com/), "Elixir's Platform as a Service"
+  * [Gigalixir](https://gigalixir.com/), An Elixir Platform as a Service, like a Heroku for Elixir
 
 # ERLANG, OTP, FUNCTIONAL PROGRAMMING, CONCURRENCY
   * [Erlang Master Classes](https://www.cs.kent.ac.uk/ErlangMasterClasses/) at University of Kent
