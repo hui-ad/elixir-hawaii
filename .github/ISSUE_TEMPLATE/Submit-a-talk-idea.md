@@ -1,5 +1,5 @@
 ---
-name: Submit a talk idea
+name: Submit a talk proposal 💬
 about: Got an idea for a talk? We'd love to hear it!
 ---
 
