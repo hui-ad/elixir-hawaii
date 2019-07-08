@@ -8,6 +8,7 @@ One of the best ways to learn is by doing. Maybe you could join a project or sta
   * Book: [Programming Elixir 1.6](https://pragprog.com/book/elixir16/programming-elixir-1-6), by Dave Thomas
   * Book: [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir), by Ulisses Almeida
   * Video: [Developing with Elixir/OTP](https://pragmaticstudio.com/elixir), by Pragmatic Studio
+  * Video: [The Soul of Erlang and Elixir - GOTO 2019](https://elixirforum.com/t/the-soul-of-erlang-and-elixir-sasa-juric-goto-2019/22631), by Saša Jurić
   * #beginner on [Elixir-lang's Slack](https://elixir-slackin.herokuapp.com/)
   * [Elixir School](https://elixirschool.com), online, peer-reviewed lessons
   * [Elixir Track](https://exercism.io/tracks/elixir) on Exercism
