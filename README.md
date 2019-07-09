@@ -8,3 +8,8 @@ These things and more. If you don't see a markdown file for something you'd like
 * locations
 * projects
 * any decisions in progress
+
+## Group Resources
+* Institute website, our public UI ([repo here](https://github.com/hui-ad/institute), [website here](http://institute.gigalixirapp.com))
+* Code of Conduct [Anonymous Abuse Reporting Form](https://docs.google.com/forms/d/1X1VigBcyS_Z_sfR_QOuaYkSyk53aNyc8ZIqNMz6UtdI/edit), @axelson owner
+* [Zoom meeting link](https://zoom.us/j/7148948484) for remote meeting attendance
