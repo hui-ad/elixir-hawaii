@@ -9,6 +9,11 @@ These things and more. If you don't see a markdown file for something you'd like
 * projects
 * any decisions in progress
 
+## Want to help?
+We'd like to strive to be explicit in letting people know how to get involved. This includes figuring out how create opportunities for everyone. That said, we also have some ways to make suggestions, in case that's your thing:
+* Use this issue template to [suggest a talk idea](https://github.com/hui-ad/shaka-ako/issues/new?template=Submit-a-talk-idea.md)
+* You can also still [create a normal issue](https://github.com/hui-ad/shaka-ako/issues/new) (suggestion)
+
 ## Group Resources
 * Institute website, our public UI ([repo here](https://github.com/hui-ad/institute), [website here](http://institute.gigalixirapp.com))
 * Code of Conduct [Anonymous Abuse Reporting Form](https://docs.google.com/forms/d/1X1VigBcyS_Z_sfR_QOuaYkSyk53aNyc8ZIqNMz6UtdI/edit), @axelson owner
