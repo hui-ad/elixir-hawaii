@@ -10,8 +10,8 @@ These things and more. If you don't see a markdown file for something you'd like
 * any decisions in progress
 
 ## Meetings
-* "Content" meetings (presentations, talks, games, demos, etc.) are held once a month, on the 2nd Wednesday of the month.
-* "Planning" meetings (to plan the "content" meetings and other loger term initiatives) are held once a month, on the 4th Tuesday of the month. They also serve as a chance to discussthe last "content" meeting and suggest improvements.
+* "Content" meetings (presentations, talks, games, demos, etc.) are held once a month, on the 2nd Wednesday of the month. These are typically located at the HTDC Entrepreneur's Sandbox, Presentation Classroom.
+* "Planning" meetings (to plan the "content" meetings and other loger term initiatives) are held once a month, on the 4th Tuesday of the month. They also serve as a chance to discuss the last "content" meeting and suggest improvements.
 
 ## Want to help?
 We'd like to strive to be explicit in letting people know how to get involved. This includes figuring out how create opportunities for everyone. That said, we also have some ways to make suggestions, in case that's your thing:
