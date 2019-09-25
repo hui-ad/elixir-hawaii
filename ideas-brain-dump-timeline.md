@@ -1,9 +1,19 @@
-# Timeline
-* [x] Put a baseline Phoenix project on Heroku [Kyle]
-* [ ] Schedule next meeting
-
-# Braindump (Ideas for projects)
-* Basic site with information about future meetups
-
-# Website TODO
-* [ ] Force SSL [Kyle]
+# Notes
+elixir meetings
+  nerves talk jan? 1/8/2020
+nerves workshop sat? 1/18 or 1/25/2020
+  post, one pager - discuss this at the october meeting
+  4 hours of material
+  lunch
+  plan for 6 hours, with stuff happening
+elixir bridge
+  george can tell us who is in charge of swe, acm, others?
+  keep focus wider, for the numbers, because elixir is niche
+  limit to 15 attendees
+  one instructor, several TAs
+  install-fest night before
+  pacific edge - jason chung
+  slack, hawaii slack - everyone
+  burt/ryan - joe
+  purple maia - kyle
+  advertiser - jason chung
